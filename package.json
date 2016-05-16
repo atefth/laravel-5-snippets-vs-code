@@ -1,0 +1,21 @@
+{
+    "name": "laravel-5-snippets",
+    "displayName": "laravel-5-snippets",
+    "description": "Snippets for Laravel 5",
+    "version": "0.0.1",
+    "publisher": "atefth",
+    "engines": {
+        "vscode": "^0.10.10"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
